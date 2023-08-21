@@ -49,3 +49,15 @@ This is a web based application named Medick developed for effective and timely 
 <img width="918" alt="Screenshot 2023-08-21 190342" src="https://github.com/Priyanka0243/projectfrt/assets/116748889/51d81b54-1bf7-4393-998a-d358e5a4844a">
 
  https://gray-grass-0595d9f00.3.azurestaticapps.net/healthbot.html
+
+## Tech Stack 💻
+
+- Azure
+- HTML
+- CSS
+- JavaScript
+
+## Azure technologies used for project
+-Static web apps
+
+-Health bot
