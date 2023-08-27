@@ -2,6 +2,12 @@
 This is a web based application named Medick developed for effective and timely communication between patients,physicians,pharmacists and other healthcare professionals is vital to good healthcare.
 ## My website link : https://gray-grass-0595d9f00.3.azurestaticapps.net
 
+## Azure technologies used for project
+-Static web apps
+
+-Health bot
+
+
 # Home Page
 
 <img width="907" alt="Screenshot 2023-08-21 185551" src="https://github.com/Priyanka0243/projectfrt/assets/116748889/dd0a5876-f96b-49b5-bc63-551648882ae5">
@@ -56,8 +62,3 @@ This is a web based application named Medick developed for effective and timely 
 - HTML
 - CSS
 - JavaScript
-
-## Azure technologies used for project
--Static web apps
-
--Health bot
